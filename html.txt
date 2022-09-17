@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>this is mybook store</title>
+    <meta name="omar ahmed" content="this our book store" />
+    <link rel="stylesheet" href="/main.css">
+</head>
+<!-- this is a header of links -->
+<div class="Links">
+    <a
+        href="https://www.google.com/search?q=codeforces&oq=&aqs=chrome.0.35i39i362l6j46i39i199i362i465j35i39i362.92936222j0j15&sourceid=chrome&ie=UTF-8">Codeforces</a>
+    <a
+        href="https://www.google.com/search?q=github&sxsrf=ALiCzsbBFTZN4oCVNxEKdZym8bpiuslZ1A%3A1663174213717&ei=RQYiY76eK4eJ9u8Pgby8kAk&gs_ssp=eJzj4tLP1TcoqiwoyE1XYDRgdGDwYkvPLMkoTQIAWC4HFA&oq=grt&gs_lcp=Cgdnd3Mtd2l6EAMYADINCC4QgAQQxwEQ0QMQCjIHCAAQgAQQCjIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyCggAELEDEIMBEAoyBwguELEDEAoyCggAELEDEIMBEAoyCggAELEDEIMBEAo6CggAEEcQ1gQQsAM6BwgAELADEEM6DQgAEOQCENYEELADGAE6EgguEMcBENEDEMgDELADEEMYAjoMCC4QyAMQsAMQQxgCOgoIABCxAxCDARBDOgQIABBDOgcIIxDqAhAnOg0ILhDHARDRAxDqAhAnOgQIIxAnOgYIIxAnEBM6CgguEMcBENEDEEM6BAguEEM6EAguELEDEIMBEMcBENEDEEM6EQguEIAEELEDEIMBEMcBENEDSgQIQRgASgQIRhgBUKUOWNQ1YN5BaAJwAHgDgAGoAYgB_AySAQQwLjEymAEAoAEBsAEKyAESwAEB2gEGCAEQARgJ2gEGCAIQARgI&sclient=gws-wiz">GitHub</a>
+    <a
+        href="https://www.google.com/search?q=codeforces&oq=&aqs=chrome.0.35i39i362l6j46i39i199i362i465j35i39i362.92936222j0j15&sourceid=chrome&ie=UTF-8">Team</a>
+    <a href="https://codeforces.com/profile/O_H_M">My profile</a>
+</div>
+<!-- the header of web -->
+<div class="sign">sign in any Browser <br> only some information</div>
+<div class="useful">
+    <p>What is the use of this site?<br>
+        We use this site to facilitate logging in on other sites such as Facebook and other sites<br> by typing some of your data and the name of the site <br>and adding a picture if you wish and when the data is finished, it is automatically registered through the site automatically</p>
+    <img class="photome" src="/images/images/msg1216289359-4761.jpg">
+</div>
+<br>
+<div class="title-pic">Example for some wep sites :</div>
+<div class="example">
+    <img class="codeforce" src="/images/images/msg1216289359-4783.jpg">
+    <img class="GitHup" src="/images/images/GitHub.jpg">
+    <img class="vscode" src="/images/images/images (1).jpg">
+
+</div>
+
+
+
+<!-- this form to recive a information from the visitor -->
+<form class="information">
+    <div class="notification"> Sign Now</div>
+    <input type="search" required placeholder="write the name of wepsite want to sign in">
+    <br>
+    <input type="text" required placeholder="Enter your Name">
+    <br>
+    <input type="number" placeholder="phone">
+    <br>
+    <input type="email" required placeholder="Enter your email">
+    <br>
+    <input type="password" required placeholder="password the email">
+    <br>
+    <input type="file" placeholder="photo">
+    <br>
+    <input type="submit" placeholder="Sign in to join">
+</form>
+<!-- The picture for some websites -->
+<h1>The picture from some Browser:</h1>
+<div class="picture">
+    <img class="contest" src="/images/images/205208868_323843409352130_1810271677005660848_n.jpg">
+    <img class="me" src="/images/images/photo1663191252.jpeg">
+    <img class="face" src="/images/images/facebook-hero_1200_675.webp">
+    <img class="whats" src="/images/images/photo-1636751364472-12bfad09b451.jpg">
+</div>
+<h3>for any Question:</h3>
+<div class="finish">
+   <a class="my-profile" href="https://www.facebook.com/profile.php?id=100028334143840"> <img class="logoface" src="/images/images/images.png"></a>
+    <a class=" my-telegram" href="https://web.telegram.org/z/"><img class="logowhats" src="/images/images/Telegram_X_2019_Logo.svg.png"></a>
+<a class="my-ines" href="https://web.telegram.org/z/"><img class="in" src="/images/images/Black_Instagram_icon.svg.png" alt=""></a>
+</div>
+</body>
+
+

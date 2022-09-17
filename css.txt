@@ -1,0 +1,275 @@
+
+/* The fist element in Css  is background color for  body*/
+body{
+    background-image: url(/images/images/msg1216289359-4784.jpg);
+    background-size: cover ;
+}
+/* Css for Links in the top of the wep */
+.Links{
+    
+    display: flex;
+    font-size: 37px;
+    justify-self: start;
+    justify-content: space-around;
+    
+}
+/* that to remove the underline from the link and some style */
+a{
+    text-decoration: none;
+    color: hsl(207deg 79% 89%);
+}
+/* to colection the input */
+.information{
+    text-align: center;
+    font-size: 63px;
+    margin: 35%;
+    border: 8px solid hsl(0deg 0% 83%);
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    border-bottom-style: revert;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+}
+/* Css for The input */
+input{
+    font-size: 20px;
+    margin: 10%;
+}
+/* when i hover any input */
+input:hover{
+    color:whitesmoke;
+    background-color:blueviolet;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    border-bottom-style: revert;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+} 
+/* when i hover any link */
+a:hover{
+    color:rgb(0, 0, 0) ;
+    background-color:rgb(76, 0, 147);
+    border-bottom-left-radius: 15%;
+    border-bottom-right-radius: 15%;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    transition-duration: 1s;
+}
+/* the Css Title */
+h1{
+    color: hsl(0deg 0% 96%);
+    font-size: 45px;
+    display: flex;
+}
+/* when i hover any title */
+h1:hover{
+    background-color: black;
+    color: whitesmoke;
+    border: 8px solid hsl(0deg 0% 83%);
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    transition-duration: 2s;
+}
+/* The name of class for the header for the website */
+.sign {
+    font-size: 78px;
+    margin: 20%;
+    text-align: center;
+    color:black;
+}
+/* when i hover a header for the website  */
+.sign:hover{
+    background-color: black;
+    color: whitesmoke;
+    border: 8px solid hsl(0deg 0% 83%);
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    transition-duration: 2s;
+}
+/* any image */
+.contest{
+    border-radius: 40%;
+    width: 295px;
+    height: 280px;
+    margin: 98px;
+}
+.contest:hover{
+    transform: rotate(360deg);
+    transition: 3s;
+}
+.me{
+    border-radius: 40%;
+    width: 295px;
+    height: 280px;
+    margin: 98px;
+}
+.me:hover{
+    transform: rotate(360deg);
+    transition: 3s;
+}
+.face{
+    border-radius: 40%;
+    width: 295px;
+    height: 280px;
+    margin: 98px;
+}
+.face:hover{
+    transform: rotate(360deg);
+    transition: 3s;
+}
+.whats{
+    border-radius: 40%;
+    width: 295px;
+    height: 295px;
+    margin: 98px;
+}
+.whats:hover{
+    transform: rotate(360deg);
+    transition: 3s;
+}
+.photome{
+    border-radius: 60%;
+    width: 47%;
+    height: 71%;
+    filter: blur(23px);
+}
+p{
+    color: hsl(0deg 0% 96%);
+    font-size: 30px;
+    background-color: hsl(0deg 0% 0%);
+    border: 8px solid hsl(0deg 1% 93%);
+    border-bottom-left-radius: 0%;
+    border-bottom-right-radius: 50%;
+    border-top-left-radius: 0%;
+    border-top-right-radius: 65%;
+    transition-duration: 2s;
+}
+p:hover{
+    margin: 3%;
+}
+.photome:hover{
+    filter: blur(0px);
+    margin: 4px;
+    transition-duration: 2s;
+}
+.logoface{
+    border-radius: 60%;
+    width: 99px;
+    height: 86px;
+}
+h3{
+    font-size: 40px;
+    color:whitesmoke
+}
+.logowhats{
+    width: 99px;
+    height: 86px;
+}
+.finish{
+ margin: 99px;
+}
+.telegram{
+    border-radius: 60%;
+    width: 99px;
+    height: 86px;
+}
+.in{    border-radius: 60%;
+    width: 99px;
+    height: 86px;
+}
+.my-profile{
+        border-radius: 40%;
+        width: 295px;
+        height: 280px;
+        margin: 98px;
+    
+    }
+    .my-telegram{
+     border-radius: 40%;
+    width: 295px;
+    height: 280px;
+    margin: 150px;
+
+}
+.my-ines{
+    border-radius: 40%;
+   width: 295px;
+   height: 280px;
+   margin: 200px;
+
+}
+
+.sign::selection{
+    background-color: rgb(55, 11, 97);
+}
+p::selection{
+    background-color: rgb(55, 11, 97);
+}
+.codeforce{
+    width: 23%;
+    border-bottom-right-radius: 48%;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 54%;
+    margin: 26px;
+    transition-duration: 2s;
+    filter: blur(15px);
+}
+.vscode{
+    width: 23%;
+    border-bottom-right-radius: 14%;
+    border-top-left-radius: 73%;
+    border-top-right-radius: 28%;
+    border-bottom-left-radius: 68%;
+    margin: 24px;
+    transition-duration: 2s;
+    filter: blur(15px);
+}
+.GitHup{
+        width: 43%;
+     
+        border-radius: 29%;
+        margin: 21px;
+        transition-duration: 2s;
+        filter: blur(15px);
+}
+.codeforce:hover{
+    width: 23%;
+    border-bottom-right-radius: 48%;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 54%;
+    margin: 35px;
+    transition-duration: 2s;
+    filter: blur(0px);
+}
+.vscode:hover{
+    width: 23%;
+    border-bottom-right-radius: 14%;
+    border-top-left-radius: 73%;
+    border-top-right-radius: 28%;
+    border-bottom-left-radius: 68%;
+    margin: 36px;
+    transition-duration: 2s;
+    filter: blur(0px);
+}
+.GitHup:hover{
+    width: 43%;
+    border-radius: 29%;
+    margin: 30px;
+    transition-duration: 2s;
+    filter: blur(0px);
+}
+.title-pic{
+    font-size: 47px;
+    margin: 52px;
+    color: hsl(0deg 0% 96%);
+}
+.notification{
+    font-size: 47px;
+    margin: 52px;
+    color: hsl(0deg 0% 96%);
+    text-align: center;
+}
